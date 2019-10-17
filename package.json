@@ -9,7 +9,7 @@
   "keywords": [
     "irc"
   ],
-  "repostiory": "https://github.com/gissleh/irc-caret-notation",
+  "repository": "https://github.com/gissleh/irc-caret-notation",
   "author": "Gissleh",
   "license": "ISC",
   "devDependencies": {

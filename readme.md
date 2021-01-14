@@ -2,6 +2,8 @@
 
 This is a module for parsing the IRC text formatting syntax into structures you can use to render it in your engine of choice. I have made a similar library in the past, but it has a different API that I did not want to completely break compatibility with.
 
+Versions 1.0.2 through 1.0.5 is just fixing audit warnings for dev dependencies. That makes zero diffence for dependents.
+
 ```javascript
 const {parse} = require("irc-caret-notation");
 
